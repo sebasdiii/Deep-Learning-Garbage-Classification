@@ -13,3 +13,7 @@ This project classifies images of garbage into different categories using deep l
 - Model building: Convolutional Neural Network (CNN) using Keras/TensorFlow
 - Model training and hyperparameter tuning
 - Evaluation: accuracy, loss curves, and confusion matrix
+
+## Result
+CNN: 84% Accuracy
+CNN+RNN: 81% Accuracy
