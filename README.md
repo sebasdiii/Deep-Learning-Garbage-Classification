@@ -5,7 +5,7 @@ This project classifies images of garbage into different categories using deep l
 
 ## Dataset
 - The dataset contains labeled images of garbage (plastic, paper, metal, etc.)
-- Dataset canbe found on Kaggle with the link: https://www.kaggle.com/datasets/sumn2u/garbage-classification-v2
+- Dataset can be found on Kaggle with the link: https://www.kaggle.com/datasets/sumn2u/garbage-classification-v2
 
 ## Features / Steps Implemented
 - Image preprocessing
